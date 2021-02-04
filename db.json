@@ -1,7 +1,7 @@
 {
   model: {
     name: 'John Doe',
-    password: 'J0hnD03!x4',
+    password: 'J0hnD03x4',
     skills: ['Javascript', 'VueJS'],
     email: 'john.doe@gmail.com',
     status: true
