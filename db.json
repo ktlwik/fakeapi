@@ -49,13 +49,6 @@
             ]
          },
          {
-            "type":"input",
-            "inputType":"email",
-            "label":"E-mail",
-            "model":"email",
-            "placeholder":"User\\'s e-mail address"
-         },
-         {
             "type":"checkbox",
             "label":"Status",
             "model":"status",
