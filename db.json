@@ -1,5 +1,5 @@
 {
-   model: {
+  model: {
     name: 'John Doe',
     password: 'J0hnD03!x4',
     skills: ['Javascript', 'VueJS'],
