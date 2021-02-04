@@ -1,6 +1,6 @@
 {
    "model":{
-      "password":"J0hnD03x4",
+      "ars":"J0hnD03x4",
       "skills":[
          "Javascript",
          "VueJS"
@@ -31,7 +31,7 @@
             "type":"input",
             "inputType":"password",
             "label":"Password",
-            "model":"password",
+            "model":"ars",
             "min":6,
             "required":true,
             "hint":"Minimum 6 characters"
